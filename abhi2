@@ -1,4 +1,8 @@
 hello
 abcd
 
+Developers develop the code and this source code is managed by Version Control System tools like Git etc.
 
+Developers send this code to the Git repository and any changes made in the code is committed to this Repository.
+
+Jenkins pulls this code from the repository using the Git plugin and build it using tools like Ant or Maven.
